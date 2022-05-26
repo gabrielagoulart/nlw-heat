@@ -18,9 +18,10 @@ body {
 }
 
 main {
-    background: url(images/backgroung.svg);
-    width: 375px;
-    height: 812px;
+    background: url(images/backgroung.svg) no-repeat center/cover;
+    width: 100vw;
+    min-height: 812px;
+    height: 100vh;
 }
 
 .container {
