@@ -92,3 +92,20 @@ ul {
 
     justify-content: center;
 }
+
+/* RESPONSIVO */
+@media (min-width: 1024px){}
+
+* {
+
+}
+
+main {
+    background: url(images/backgroung.svg) no-repeat center;
+ 
+}
+
+
+
+ 
+
