@@ -93,19 +93,15 @@ ul {
     justify-content: center;
 }
 
-/* RESPONSIVO */
-@media (min-width: 1024px){}
+/* RESPONSIVO #29292E */
+/*@media (min-width: 1024px){ }
 
-* {
-
-}
 
 main {
-    background: url(images/backgroung.svg) no-repeat center;
- 
-}
+    background: url(images/degradê1.svg) no-repeat center;
+    background: url(images/mask.svg) no-repeat center;
+    background-color: #29292E;
 
+}  */
 
-
- 
 
